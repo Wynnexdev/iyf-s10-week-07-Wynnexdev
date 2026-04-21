@@ -1,8 +1,8 @@
 # Week 7: JavaScript Best Practices & Advanced State
 
 ## Author
-- **Name:** Maisori Kitayama
-- **GitHub:** [@MaisoriKitayama](https://github.com/MaisoriKitayama)
+- **Name:** Winnie Mwangi
+- **GitHub:** [@Wynnexdev](https://github.com/Wyneexdev)
 - **Date:** April 21, 2026
 
 ## Project Description
